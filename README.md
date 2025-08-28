@@ -14,12 +14,12 @@ C++
 
 `
 HTML
-`
+`   
 <img width="600px" src="preview/notepad2_html.png">   
 
 `
 JS
-`
+`   
 <img width="600px" src="preview/notepad2_js.png">   
 
 `
