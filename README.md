@@ -29,7 +29,7 @@ CSS
 
 ### Downloads
 
-You can download portable Notepad2 folder with Creme color scheme and unzip to use.
+You can download portable Notepad2 folder with Creme color scheme and copy folder in C:\Program Files\ or any destination.
 
 ### Or installing only config in Notepad2
 
