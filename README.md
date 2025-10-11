@@ -1,6 +1,6 @@
 ### Creme colorscheme for Notepad2
 
-Light color scheme from [Alpen](https://github.com/yojeero/alpen_sublime) or [Creme](https://github.com/yojeero/cream_vscode) themes.
+Light color scheme from [Alpen](https://github.com/yojeero/alpen_sublime) or [Cream](https://github.com/yojeero/cream_vscode) themes.
 
 `
 PHP
@@ -29,7 +29,7 @@ CSS
 
 ### Downloads
 
-You can download portable Notepad2 folder with Creme color scheme and copy folder in C:\Program Files\ or any destination.
+You can download portable Notepad2 folder with Cream color scheme and copy folder in C:\Program Files\ or any destination.
 
 ### Or installing only config in Notepad2
 
